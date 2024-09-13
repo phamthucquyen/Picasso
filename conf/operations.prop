@@ -1,0 +1,8 @@
++=Plus
+-=Minus
+%=Mod
+*=Multiply
+/=Divide
+\==Equals
+\!=Negate
+^=Exponent
